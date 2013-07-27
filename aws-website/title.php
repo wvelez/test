@@ -1,7 +1,7 @@
 <div id="title">
 <?php include_once("analyticstracking.php") ?>
 
-                <h1>Megacity: Firefight</h1>
+                <h1>MegaCity: The Ultimate Firefight</h1>
 <div id="titleright">
 
 <div id="name1">
